@@ -1,6 +1,4 @@
-# ===== 实验运行时生成的输出（由 notebook 运行自动生成，不需提交）=====
-exp01_data/
-student_utils.py
+# ===== Python 缓存 =====
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
