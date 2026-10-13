@@ -1,0 +1,12 @@
+# ===== 实验运行时生成的输出（由 notebook 运行自动生成，不需提交）=====
+exp01_data/
+student_utils.py
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ===== 课程说明文档（非本人作业，不提交）=====
+*.pdf
+
+# ===== 工具配置 =====
+.claude/
